@@ -10,7 +10,7 @@
 	<form action="display" method="post">
 	<pre>
 
-	<input type="submit" value="display">
+	<input type="submit" value="Press Me To Display the Items">
 	</pre>
 	</form>
 </body>
